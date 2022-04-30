@@ -1,0 +1,8 @@
+1)¿Que quiere decir que las etiquetas son "case sensitive"?
+Las etiquetas son case sensitive ya que son sesibles a las mayúsuclas o minúsclas (Input !== input)
+
+2)¿Qué reglas deben respetar los nombres de archivos HTML?
+Cada nuevo HTML debe nombrarse indistintamente y por lo general no usar espacios, ñ o acentos.
+
+4)¿Qué caracterísitcas birnda el hosting de Netlify?
+El hosting de Netlify nos permite alojar nuestros proyectos, más que todo proyectos fron-end, de forma gratuita
