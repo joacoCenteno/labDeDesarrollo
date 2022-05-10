@@ -1,0 +1,39 @@
+body
+{
+	font-family: Georgia, Cambria, Sans-Serif;
+	color: #0000ff;
+	background: #ccffcc;
+	font-size: 16px;
+}
+
+.titleOne
+{
+    color: #ff0000;
+    font-family: Verdana, Calibri, Sans-Serif;
+    font-size: 32px;
+}
+
+.titleTwo
+{
+	color: #aa0000;
+	font-family: Verdana, Calibri, Sans-Serif;
+	font-size: 24px;
+}
+
+.listContent
+{
+	color: #006600;
+}
+
+.intWeb
+{
+	font-size: 20px;
+    font-weight: bold;
+}
+
+.htmlCSS
+{
+	color: #fff;
+	background: #000;
+	font-style: italic;
+}
